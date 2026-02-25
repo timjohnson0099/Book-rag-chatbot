@@ -20,7 +20,7 @@ A powerful RAG (Retrieval-Augmented Generation) chatbot that allows you to chat 
 ## Installation
 
 1. Clone the repository:
-```bash
+```bashh
 git clone <repository-url>
 cd book-rag-chatbot
 ```
